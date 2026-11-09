@@ -1,0 +1,5 @@
+# app-ads.txt — OmBudh
+# Quand ton compte AdMob est créé, copie ici la ligne qu'AdMob te donne
+# (Applications > Toutes les applications > app-ads.txt), puis enlève le # devant.
+# Elle ressemble à ça, avec TON numéro d'éditeur à la place des 0 :
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
